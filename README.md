@@ -233,4 +233,4 @@ This repository serves as the official landing page for Tencent WeGame. The soft
 **Get the most recent version of Tencent WeGame today!**
 
 ---
-**Last updated:** 2026-11-01 23:17:37 UTC
+**Last updated:** 2026-11-02 03:13:56 UTC
